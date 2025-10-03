@@ -1,3 +1,4 @@
+# updated
 def check_grade(name, score):            # Function checks grade and returns result
     name = name.capitalize()             # Format the name nicely
     if score >= 70:
