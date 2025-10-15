@@ -1,5 +1,5 @@
 def add_item(shopping_list, item):        # Function adds items if not already in list
-    item = item.strip().lower()           # Clean up item text
+    item = item.strip().lower()          
     if item not in shopping_list:
         shopping_list.append(item)        # Add item to the list
         return f"{item.title()} added."
