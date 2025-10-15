@@ -1,5 +1,5 @@
 def clothing_advice(temp, weather):   # Function decides clothes based on temp + weather
-    weather = weather.lower()         # Make input lowercase for consistency
+    weather = weather.lower()        
     if temp < 10 and "rain" in weather:
         return "Wear a coat and bring an umbrella."
     elif temp < 20:
