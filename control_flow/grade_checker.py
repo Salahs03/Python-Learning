@@ -1,6 +1,6 @@
 # updated
 def check_grade(name, score):            # Function checks grade and returns result
-    name = name.capitalize()             # Format the name nicely
+    name = name.capitalize()             
     if score >= 70:
         return f"{name} passed with {score}!"
     elif score >= 50:
