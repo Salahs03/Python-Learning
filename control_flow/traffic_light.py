@@ -6,6 +6,6 @@ if light == "red":
 elif light == "yellow":
     print("Get ready to stop.")
 elif light == "green":
-    print("Go!")
+    print("Go!")     # Drive safe
 else:
     print("Invalid colour.")
