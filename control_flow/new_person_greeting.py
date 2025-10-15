@@ -1,11 +1,11 @@
 class Person:
     def __init__(self, name):
-        self.name = name  # attribute
+        self.name = name  # store the person's name
 
     def greet(self):
-        print(f"Hello, my name is {self.name}!")
+        print(f"Hello, my name is {self.name}!")  # print a greeting
 
-# create objects
+# create two Person objects and call greet
 person1 = Person("Alice")
 person2 = Person("Bob")
 
