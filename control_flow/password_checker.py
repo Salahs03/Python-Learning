@@ -9,7 +9,7 @@ def check_password(password):
         return "Strong: letters, numbers, and symbols"
 
 
-# Example usage
+# Example 
 print(check_password("hello"))
 print(check_password("hellooo"))
 print(check_password("hello123"))
