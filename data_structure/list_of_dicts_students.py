@@ -11,3 +11,4 @@ for student in students:
 
 # Accessing a specific value
 print("Second student’s name:", students[1]["name"])
+
