@@ -7,6 +7,6 @@ print("All items:", shopping)
 print("First item:", shopping[0])   # bread
 print("Last item:", shopping[2])    # eggs
 
-# Mutable (changing a value)
+# Mutable (changing value)
 shopping[1] = "oat milk"
 print("Updated list:", shopping)
