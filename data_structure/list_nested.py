@@ -8,3 +8,6 @@ matrix = [
 print("First row:", matrix[0])        # [1, 2, 3]
 print("Second row, third element:", matrix[1][2])  # 6
 print("Last row, first element:", matrix[2][0])    # 7
+
+# updated
+
