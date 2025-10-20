@@ -13,3 +13,5 @@ print("First vegetable:", shopping_list["vegetables"][0])
 shopping_list["drinks"].append("tea")
 
 print("Updated shopping list:", shopping_list)
+
+
