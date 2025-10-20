@@ -1,4 +1,4 @@
-# Existing dictionary
+# dictionary
 student_scores = {"Alice": 85, "Bob": 95, "Charlie": 78}
 
 # Delete Charlie's entry
