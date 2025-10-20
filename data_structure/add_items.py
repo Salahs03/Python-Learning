@@ -1,4 +1,3 @@
-# updated 
 # Create an empty dictionary
 student_scores = {}
 
