@@ -1,9 +1,9 @@
-colours = ("red", "green", "blue")
+colors = ("red", "green", "blue")
 
-def print_colours():
-    for colour in colours:
-        print("Colour:", colour)
+def print_colors():
+    for color in colors:
+        print("Color:", color)
 
-print_colours()
+print_colors()
 
 # This code loops through a tuple and prints each color
